@@ -6,4 +6,5 @@ One more time wanna commit
 git checkout - switching to another version
 
 >git branch - показать все ветки
-sss
+
+> git merge - слияние
