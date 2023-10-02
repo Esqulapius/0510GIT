@@ -7,4 +7,5 @@ git checkout - switching to another version
 
 >git branch - показать все ветки
 
-> git checkout -b name - создание и переход на след. ветку
+> git checkout -b name - создание и переход на след. веткуsddsd
+
