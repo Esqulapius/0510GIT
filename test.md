@@ -7,4 +7,8 @@ git checkout - switching to another version
 
 >git branch - показать все ветки
 
-> s
+> git branch - показать все ветки git branch - показать все ветки git branch - показать все ветки git branch - показать все ветки git branch - показать все ветки git branch - показать все ветки git branch - показать все ветки
+git branch - показать все веткиgit branch - показать все ветки
+git branch - показать все веткиgit branch - показать все веткиgit branch - показать все ветки
+git branch - показать все веткиgit branch - показать все веткиgit branch - показать все ветки
+git branch - показать все веткиgit branch - показать все веткиgit branch - показать все ветки
