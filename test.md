@@ -7,4 +7,4 @@ git checkout - switching to another version
 
 >git branch - показать все ветки
 
-> s
+> nothing to commit
