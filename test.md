@@ -7,5 +7,6 @@ git checkout - switching to another version
 
 >git branch - показать все ветки
 
-> git checkout -b name - создание и переход на след.
+> git checkout -b name - создание и переход на след. происходит изменение несколькх слов что происходит при слиянии нескольких веток
+
 
