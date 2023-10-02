@@ -7,11 +7,4 @@ git checkout - switching to another version
 
 >git branch - показать все ветки
 
-> git checkout -b  git checkout -b  git checkout -b  git checkout -b  git checkout -b  git checkout -b  git checkout -b  git checkout -b  git checkout -b 
-
- git checkout -b  git checkout -b  git checkout -b  git checkout -b  git checkout -b 
- git checkout -b  git checkout -b  git checkout -b  git checkout -b  git checkout -b 
-  git checkout -b  git checkout -b  git checkout -b 
-   git checkout -b  git checkout -b  git checkout -b 
-    git checkout -b  git checkout -b  git checkout -b 
-     git checkout -b  git checkout -b  git checkout -b 
+> s
